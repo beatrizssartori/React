@@ -1,4 +1,9 @@
-## Fundamentos sobre:
+# Para inicializar o React, você precisa digitar no terminal do VS Code (powershell):
+1. npx create-react-app *nome*
+2. cd .\ *nome*\
+3. npm start
+
+## Nestes códigos, você encontrará fundamentos de:
 
 * Components
 
@@ -20,6 +25,6 @@
 
 👉 https://www.horadecodar.com.br/ebook-fundamentos-do-react-gratuito/
 
-## Resultado:
+# Resultado:
 
 ![print-página](https://user-images.githubusercontent.com/102486199/192059035-a6a60b6b-d049-4897-8650-f20269610c33.png)
