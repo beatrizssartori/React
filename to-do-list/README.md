@@ -7,5 +7,5 @@ Passo a passo dos comandos no Terminal do VS Code (powershell) para ativar o Rea
 1. npx create-react-app to-do-list
 2. npm install json-server react-icons *(para ter acesso aos ícones)*
 3. "server": "json-server --watch data/db.json --port 5000" em PACKAGE.JSON, e npm run server no TERMINAL
-4. cd .\to-do-list\ 
+4. cd to-do-list 
 5. npm start 
