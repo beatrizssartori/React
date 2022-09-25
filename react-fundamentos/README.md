@@ -1,6 +1,6 @@
 # Para inicializar o React, você precisa digitar no terminal do VS Code (powershell):
 1. npx create-react-app *nome*
-2. cd .\ *nome*\
+2. cd *nome*
 3. npm start
 
 ## Nestes códigos, você encontrará fundamentos de:
